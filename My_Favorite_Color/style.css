@@ -1,0 +1,11 @@
+/*background and font color*/
+body {
+    background-color: rgb(216, 216, 221);    
+    color:rgb(65, 102, 68);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+/*change heading color */
+h1 {
+    color:saddlebrown;
+}
